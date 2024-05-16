@@ -1,12 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "G:\\TavernLight\\otclient\\vc14\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17A8F78F-1FFB-4128-A3B3-59CC6C19D89A}|otclient.vcxproj|G:\\TavernLight\\otclient\\src\\client\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A8F78F-1FFB-4128-A3B3-59CC6C19D89A}|otclient.vcxproj|G:\\TavernLight\\otclient\\src\\client\\const.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.cpp",
+              "DocumentMoniker": "G:\\TavernLight\\otclient\\src\\client\\game.cpp",
+              "RelativeDocumentMoniker": "..\\src\\client\\game.cpp",
+              "ToolTip": "G:\\TavernLight\\otclient\\src\\client\\game.cpp",
+              "RelativeToolTip": "..\\src\\client\\game.cpp",
+              "ViewState": "AQIAABADAAAAAAAAAADwvx0DAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T21:14:09.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "const.h",
+              "DocumentMoniker": "G:\\TavernLight\\otclient\\src\\client\\const.h",
+              "RelativeDocumentMoniker": "..\\src\\client\\const.h",
+              "ToolTip": "G:\\TavernLight\\otclient\\src\\client\\const.h",
+              "RelativeToolTip": "..\\src\\client\\const.h",
+              "ViewState": "AQIAAIoBAAAAAAAAAAAAwKIBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T21:13:09.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
